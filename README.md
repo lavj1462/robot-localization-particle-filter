@@ -1,5 +1,7 @@
 # robot-localization-particle-filters
 # Robot Localization with Particle Filters
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lavj1462/robot-localization-particle-filter/blob/main/localization.ipynb)
+
 
 This project demonstrates **robot localization** using a **particle filter** implemented in Python with OpenCV.
 
