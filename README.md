@@ -4,6 +4,7 @@
 
 
 This project demonstrates **robot localization** using a **particle filter** implemented in Python with OpenCV.
+![Demo](demo.gif)
 
 The robot is placed on a terrain map (`map.png`) and estimates its position using:
 - **Motion model**: Applies noisy forward and turn movements.
